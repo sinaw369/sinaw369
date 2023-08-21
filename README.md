@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/sina-hatami-3b611b21b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
   </a>
-  <a href="sina369" target="_blank">
+  <a href="https://discordapp.com/users/774316879460171836" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="25" alt="discord logo"  />
   </a>
   <a href="https://instagram.com/sinaw369?igshid=MzNlNGNkZWQ4Mg==" target="_blank">
